@@ -1,0 +1,29 @@
+@import '@/assets/_variables';
+* {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+body {
+  overflow: hidden;
+  background-color: #efefef;
+}
+.full-page {
+  width: 100%;
+  height: 100vh;
+}
+.divider {
+  width: 60px;
+  height: 4px;
+  margin-bottom: 60px;
+}
+.display-5 {
+  font-size: 40px;
+  font-weight: lighter;
+}
+
+.list-group {
+    li {
+        font-size: 30px;
+        background-color: rgba(255, 255, 255, 0);
+        border: none;
+    }
+}

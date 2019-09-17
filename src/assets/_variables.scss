@@ -1,0 +1,14 @@
+$colors: (
+    primary-color: #92ffd9,
+    secondary-color: red,
+    vue-color: #41b883
+);
+
+@each $name, $color in $colors {
+    .text-#{$name} {
+        color: $color;
+    }
+    .bg-#{$name} {
+        background-color: $color;
+    }
+};
