@@ -18,6 +18,6 @@
 
 <style lang="scss">
 .about-container {
-  min-height: 600px;
+  min-height: 400px;
 }
 </style>

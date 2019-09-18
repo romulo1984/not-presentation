@@ -7,9 +7,6 @@
             Hands<strong>-on!</strong>
           </h1>
           <div class="divider bg-vue-color"></div>
-          <h2 class="font-weight-light">
-            The Progressive JavaScript Framework
-          </h2>
         </div>
       </div>
     </div>
